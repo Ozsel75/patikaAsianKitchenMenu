@@ -1,4 +1,4 @@
-# Javascript To Do List
+# Javascript kitchen menu 
 
 ## www.patika.dev
 
